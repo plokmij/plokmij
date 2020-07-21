@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Deep learning.
+- 💬 Ask me about nothing
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: 404
+
 <!--
 **plokmij/plokmij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
