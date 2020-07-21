@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Deep learning.
-- 💬 Ask me about <a href="flutter.dev">Flutter</a>
+- 💬 Ask me about <a href="https://www.flutter.dev">Flutter</a>
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 404
 
