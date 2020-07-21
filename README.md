@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning Deep learning.
 - 💬 Ask me about <a href="https://www.flutter.dev">Flutter</a>
 - 😄 Pronouns: he/him/his
+- 📫 How to reach me: [Twitter - @samfaan](https://twitter.com/samfaan)
 - ⚡ Fun fact: 404
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=plokmij&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"
 <!--
 **plokmij/plokmij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
