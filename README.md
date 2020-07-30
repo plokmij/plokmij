@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Deep learning.
+- 🌱 I’m currently learning Android Development.
 - 💬 Ask me about <a href="https://www.flutter.dev">Flutter</a>
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [Twitter - @samfaan](https://twitter.com/samfaan)
