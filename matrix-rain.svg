@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="300" viewBox="0 0 850 300">
+  <style>
+    @keyframes fall0 { 0% { transform: translateY(-200px); } 100% { transform: translateY(350px); } }
+    @keyframes fall1 { 0% { transform: translateY(-180px); } 100% { transform: translateY(350px); } }
+    @keyframes fall2 { 0% { transform: translateY(-220px); } 100% { transform: translateY(350px); } }
+    @keyframes fall3 { 0% { transform: translateY(-160px); } 100% { transform: translateY(350px); } }
+    @keyframes fall4 { 0% { transform: translateY(-240px); } 100% { transform: translateY(350px); } }
+    .bg { fill: #0d1117; }
+    .col { font-family: monospace; font-size: 14px; fill: #00ff41; }
+    .c0 { animation: fall0 2.1s linear infinite; }
+    .c1 { animation: fall1 2.4s linear infinite; animation-delay: 0.3s; }
+    .c2 { animation: fall2 1.9s linear infinite; animation-delay: 0.1s; }
+    .c3 { animation: fall3 2.6s linear infinite; animation-delay: 0.5s; }
+    .c4 { animation: fall4 2.2s linear infinite; animation-delay: 0.2s; }
+    .c5 { animation: fall0 2.5s linear infinite; animation-delay: 0.4s; }
+    .c6 { animation: fall1 2.0s linear infinite; animation-delay: 0.6s; }
+    .c7 { animation: fall2 2.3s linear infinite; animation-delay: 0.15s; }
+    .c8 { animation: fall3 2.1s linear infinite; animation-delay: 0.35s; }
+    .c9 { animation: fall4 2.7s linear infinite; animation-delay: 0.55s; }
+    .c10 { animation: fall0 1.8s linear infinite; animation-delay: 0.25s; }
+    .c11 { animation: fall1 2.4s linear infinite; animation-delay: 0.45s; }
+    .c12 { animation: fall2 2.2s linear infinite; animation-delay: 0.65s; }
+    .c13 { animation: fall3 2.5s linear infinite; animation-delay: 0.08s; }
+    .c14 { animation: fall4 2.0s linear infinite; animation-delay: 0.28s; }
+    .c15 { animation: fall0 2.3s linear infinite; animation-delay: 0.48s; }
+    .c16 { animation: fall1 2.1s linear infinite; animation-delay: 0.68s; }
+    .c17 { animation: fall2 2.6s linear infinite; animation-delay: 0.18s; }
+    .c18 { animation: fall3 1.9s linear infinite; animation-delay: 0.38s; }
+    .c19 { animation: fall4 2.4s linear infinite; animation-delay: 0.58s; }
+    .c20 { animation: fall0 2.2s linear infinite; animation-delay: 0.12s; }
+    .c21 { animation: fall1 2.5s linear infinite; animation-delay: 0.32s; }
+    .c22 { animation: fall2 2.0s linear infinite; animation-delay: 0.52s; }
+    .c23 { animation: fall3 2.3s linear infinite; animation-delay: 0.72s; }
+    .c24 { animation: fall4 2.1s linear infinite; animation-delay: 0.22s; }
+    .bright { fill: #ffffff; }
+  </style>
+  <rect class="bg" width="850" height="300"/>
+  <g class="col c0"><text x="10" y="0">1</text><text x="10" y="18">0</text><text x="10" y="36">1</text><text x="10" y="54">1</text><text x="10" y="72">0</text><text x="10" y="90">0</text><text x="10" y="108">1</text><text x="10" y="126" class="bright">0</text></g>
+  <g class="col c1"><text x="44" y="0">0</text><text x="44" y="18">1</text><text x="44" y="36">0</text><text x="44" y="54">0</text><text x="44" y="72">1</text><text x="44" y="90">1</text><text x="44" y="108" class="bright">1</text></g>
+  <g class="col c2"><text x="78" y="0">1</text><text x="78" y="18">1</text><text x="78" y="36">0</text><text x="78" y="54">1</text><text x="78" y="72">0</text><text x="78" y="90">1</text><text x="78" y="108">0</text><text x="78" y="126">1</text><text x="78" y="144" class="bright">1</text></g>
+  <g class="col c3"><text x="112" y="0">0</text><text x="112" y="18">0</text><text x="112" y="36">1</text><text x="112" y="54">0</text><text x="112" y="72">1</text><text x="112" y="90" class="bright">0</text></g>
+  <g class="col c4"><text x="146" y="0">1</text><text x="146" y="18">0</text><text x="146" y="36">1</text><text x="146" y="54">1</text><text x="146" y="72">0</text><text x="146" y="90">0</text><text x="146" y="108">1</text><text x="146" y="126">1</text><text x="146" y="144">0</text><text x="146" y="162" class="bright">1</text></g>
+  <g class="col c5"><text x="180" y="0">0</text><text x="180" y="18">1</text><text x="180" y="36">1</text><text x="180" y="54">0</text><text x="180" y="72">1</text><text x="180" y="90">0</text><text x="180" y="108" class="bright">1</text></g>
+  <g class="col c6"><text x="214" y="0">1</text><text x="214" y="18">0</text><text x="214" y="36">0</text><text x="214" y="54">1</text><text x="214" y="72">1</text><text x="214" y="90">0</text><text x="214" y="108">1</text><text x="214" y="126" class="bright">0</text></g>
+  <g class="col c7"><text x="248" y="0">0</text><text x="248" y="18">1</text><text x="248" y="36">0</text><text x="248" y="54">1</text><text x="248" y="72">0</text><text x="248" y="90" class="bright">1</text></g>
+  <g class="col c8"><text x="282" y="0">1</text><text x="282" y="18">1</text><text x="282" y="36">0</text><text x="282" y="54">0</text><text x="282" y="72">1</text><text x="282" y="90">0</text><text x="282" y="108">1</text><text x="282" y="126">1</text><text x="282" y="144" class="bright">0</text></g>
+  <g class="col c9"><text x="316" y="0">0</text><text x="316" y="18">0</text><text x="316" y="36">1</text><text x="316" y="54">1</text><text x="316" y="72">0</text><text x="316" y="90">1</text><text x="316" y="108" class="bright">1</text></g>
+  <g class="col c10"><text x="350" y="0">1</text><text x="350" y="18">0</text><text x="350" y="36">1</text><text x="350" y="54">0</text><text x="350" y="72">1</text><text x="350" y="90">0</text><text x="350" y="108">0</text><text x="350" y="126" class="bright">1</text></g>
+  <g class="col c11"><text x="384" y="0">0</text><text x="384" y="18">1</text><text x="384" y="36">0</text><text x="384" y="54">1</text><text x="384" y="72">1</text><text x="384" y="90" class="bright">0</text></g>
+  <g class="col c12"><text x="418" y="0">1</text><text x="418" y="18">1</text><text x="418" y="36">0</text><text x="418" y="54">0</text><text x="418" y="72">1</text><text x="418" y="90">1</text><text x="418" y="108">0</text><text x="418" y="126">1</text><text x="418" y="144" class="bright">1</text></g>
+  <g class="col c13"><text x="452" y="0">0</text><text x="452" y="18">0</text><text x="452" y="36">1</text><text x="452" y="54">1</text><text x="452" y="72">0</text><text x="452" y="90">0</text><text x="452" y="108" class="bright">1</text></g>
+  <g class="col c14"><text x="486" y="0">1</text><text x="486" y="18">0</text><text x="486" y="36">1</text><text x="486" y="54">0</text><text x="486" y="72">1</text><text x="486" y="90">1</text><text x="486" y="108">0</text><text x="486" y="126" class="bright">0</text></g>
+  <g class="col c15"><text x="520" y="0">0</text><text x="520" y="18">1</text><text x="520" y="36">0</text><text x="520" y="54">1</text><text x="520" y="72">0</text><text x="520" y="90" class="bright">1</text></g>
+  <g class="col c16"><text x="554" y="0">1</text><text x="554" y="18">1</text><text x="554" y="36">1</text><text x="554" y="54">0</text><text x="554" y="72">0</text><text x="554" y="90">1</text><text x="554" y="108">1</text><text x="554" y="126">0</text><text x="554" y="144" class="bright">1</text></g>
+  <g class="col c17"><text x="588" y="0">0</text><text x="588" y="18">0</text><text x="588" y="36">1</text><text x="588" y="54">1</text><text x="588" y="72">0</text><text x="588" y="90">1</text><text x="588" y="108" class="bright">0</text></g>
+  <g class="col c18"><text x="622" y="0">1</text><text x="622" y="18">0</text><text x="622" y="36">0</text><text x="622" y="54">1</text><text x="622" y="72">1</text><text x="622" y="90">0</text><text x="622" y="108">1</text><text x="622" y="126" class="bright">1</text></g>
+  <g class="col c19"><text x="656" y="0">0</text><text x="656" y="18">1</text><text x="656" y="36">1</text><text x="656" y="54">0</text><text x="656" y="72">0</text><text x="656" y="90" class="bright">1</text></g>
+  <g class="col c20"><text x="690" y="0">1</text><text x="690" y="18">1</text><text x="690" y="36">0</text><text x="690" y="54">1</text><text x="690" y="72">0</text><text x="690" y="90">1</text><text x="690" y="108">0</text><text x="690" y="126">1</text><text x="690" y="144" class="bright">0</text></g>
+  <g class="col c21"><text x="724" y="0">0</text><text x="724" y="18">0</text><text x="724" y="36">1</text><text x="724" y="54">0</text><text x="724" y="72">1</text><text x="724" y="90">1</text><text x="724" y="108" class="bright">1</text></g>
+  <g class="col c22"><text x="758" y="0">1</text><text x="758" y="18">0</text><text x="758" y="36">1</text><text x="758" y="54">1</text><text x="758" y="72">0</text><text x="758" y="90">0</text><text x="758" y="108">1</text><text x="758" y="126" class="bright">0</text></g>
+  <g class="col c23"><text x="792" y="0">0</text><text x="792" y="18">1</text><text x="792" y="36">0</text><text x="792" y="54">0</text><text x="792" y="72">1</text><text x="792" y="90" class="bright">1</text></g>
+  <g class="col c24"><text x="826" y="0">1</text><text x="826" y="18">1</text><text x="826" y="36">0</text><text x="826" y="54">1</text><text x="826" y="72">1</text><text x="826" y="90">0</text><text x="826" y="108">1</text><text x="826" y="126">0</text><text x="826" y="144" class="bright">1</text></g>
+</svg>
